@@ -1,7 +1,11 @@
-# Discord-Gift-Bot
+# Discord Scripts
 Education purposes only
 
-Alright this should be easy to understand, clone the repo, run the following
+Well this is a small collection of discord scripts.
+
+# Using Discord Gift Generator
+
+first run these commands:
 
 npm install discord.js
 
