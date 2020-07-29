@@ -1,7 +1,7 @@
 # Discord Scripts
 Education purposes only
 
-Well this is a small collection of discord scripts.
+Well this is a small collection of discord scripts. If you would like to contribute make an issue
 
 # Using Discord Gift Generator
 
