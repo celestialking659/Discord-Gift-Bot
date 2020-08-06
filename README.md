@@ -9,6 +9,8 @@ first run these commands:
 
 npm install discord.js
 
+npm i
+
 node gift
 
 That's it! add the bot to your discord, the command is 'gift' it will start to basically bruteforce discord gift links until the bot is stopped.
